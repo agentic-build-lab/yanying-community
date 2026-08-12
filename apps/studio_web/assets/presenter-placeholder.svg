@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Presenter placeholder</title>
+  <desc id="desc">Identity-neutral presenter silhouette</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10293d"/><stop offset="1" stop-color="#315d68"/></linearGradient></defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <circle cx="450" cy="390" r="180" fill="#d8b994"/>
+  <path d="M175 1080c18-290 151-430 275-430s257 140 275 430" fill="#f4efe7"/>
+  <path d="m365 685 85 130 85-130" fill="#c59a68"/>
+  <circle cx="390" cy="380" r="13" fill="#17324d"/><circle cx="510" cy="380" r="13" fill="#17324d"/>
+  <path d="M390 485c34 28 86 28 120 0" fill="none" stroke="#8f5f52" stroke-linecap="round" stroke-width="14"/>
+  <text x="450" y="1135" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="36" text-anchor="middle">YOUR PRESENTER</text>
+</svg>

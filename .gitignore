@@ -1,0 +1,36 @@
+# Local environments and runtime state
+.venv/
+.runtime/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+!.env.example
+
+# Model weights and third-party runtimes
+models/**/*.pth
+models/**/*.pt
+models/**/*.ckpt
+models/**/*.safetensors
+models/**/*.onnx
+packages/
+
+# Generated and user-provided media
+outputs/
+uploads/
+*.mp3
+*.wav
+*.mp4
+*.mov
+*.mkv
+*.webm
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+node_modules/
+.DS_Store
+Thumbs.db

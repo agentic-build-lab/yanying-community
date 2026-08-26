@@ -1,6 +1,6 @@
-# YanYing Community
+# YanYing（言影）Digital-Human Studio
 
-YanYing is a local-first digital-human video studio. It turns a script, a voice and a presenter image into a reviewable talking-head video workflow from one browser interface.
+YanYing（言影）is a local-first digital-human video studio. It turns a script, a voice and a presenter image into a reviewable talking-head video workflow from one browser interface.
 
 [简体中文](README.zh-CN.md) · [Architecture](docs/architecture.md) · [Engine adapters](docs/engine-adapters.md)
 
